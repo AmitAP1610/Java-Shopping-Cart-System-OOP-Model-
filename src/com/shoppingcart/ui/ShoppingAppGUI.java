@@ -1,3 +1,9 @@
+package com.shoppingcart.ui;
+
+import com.shoppingcart.discount.*;
+import com.shoppingcart.model.*;
+import com.shoppingcart.payment.*;
+
 import javax.swing.*;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;

@@ -1,3 +1,7 @@
+package com.shoppingcart.model;
+
+import com.shoppingcart.payment.Payment;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;

@@ -1,3 +1,5 @@
+package com.shoppingcart.payment;
+
 /**
  * Implements UPI (Unified Payments Interface) payment processing.
  * 

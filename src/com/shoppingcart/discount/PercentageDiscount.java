@@ -1,3 +1,5 @@
+package com.shoppingcart.discount;
+
 /**
  * Implements a percentage-based discount (e.g., 10% off total).
  * 

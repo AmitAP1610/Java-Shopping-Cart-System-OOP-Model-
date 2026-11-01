@@ -1,3 +1,9 @@
+package com.shoppingcart.model;
+
+import com.shoppingcart.discount.Discount;
+import com.shoppingcart.payment.Payment;
+import com.shoppingcart.payment.PaymentMethod;
+
 /**
  * Represents a customer who shops in the store.
  * 

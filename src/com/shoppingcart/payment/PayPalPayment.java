@@ -1,3 +1,5 @@
+package com.shoppingcart.payment;
+
 /**
  * Implements PayPal payment processing.
  * 

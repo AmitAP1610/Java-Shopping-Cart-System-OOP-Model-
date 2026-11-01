@@ -1,3 +1,5 @@
+package com.shoppingcart.discount;
+
 /**
  * Implements a flat monetary discount when orders exceed a certain threshold.
  * Example: $30 off on orders of $150 or more.

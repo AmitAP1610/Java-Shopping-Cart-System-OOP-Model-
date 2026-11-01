@@ -1,3 +1,7 @@
+package com.shoppingcart.model;
+
+import com.shoppingcart.discount.Discount;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashMap;

@@ -1,3 +1,9 @@
+package com.shoppingcart;
+
+import com.shoppingcart.discount.*;
+import com.shoppingcart.model.*;
+import com.shoppingcart.payment.*;
+
 /**
  * Demonstration and Test Runner for the Shopping Cart System.
  * Customer: Amit | Currency: Indian Rupee (₹ INR) | Email removed.
@@ -136,7 +142,7 @@ public class Main {
 
         printHeader("ALL TESTS COMPLETED SUCCESSFULLY");
         System.out.println("\n💡 Tip: To launch the Graphical User Interface (GUI), run:");
-        System.out.println("   java ShoppingAppGUI\n");
+        System.out.println("   run_gui.bat  OR  java -cp bin com.shoppingcart.ui.ShoppingAppGUI\n");
     }
 
     private static void printHeader(String title) {

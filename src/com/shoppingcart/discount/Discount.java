@@ -1,3 +1,5 @@
+package com.shoppingcart.discount;
+
 /**
  * Interface representing a discount policy.
  * 

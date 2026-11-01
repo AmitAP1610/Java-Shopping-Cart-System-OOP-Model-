@@ -1,3 +1,5 @@
+package com.shoppingcart.discount;
+
 /**
  * Implements a coupon code discount with a percentage rate and a maximum cap.
  * Example: Code "SAVE20" offers 20% off up to a maximum of $100.

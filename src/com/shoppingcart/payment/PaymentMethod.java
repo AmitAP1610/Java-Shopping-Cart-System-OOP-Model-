@@ -1,3 +1,5 @@
+package com.shoppingcart.payment;
+
 /**
  * Interface defining the contract for various payment methods.
  * 

@@ -1,3 +1,5 @@
+package com.shoppingcart.payment;
+
 /**
  * Implements Cash / Cash-On-Delivery payment processing.
  * 

@@ -1,3 +1,5 @@
+package com.shoppingcart.model;
+
 /**
  * Represents a product available in the shopping store.
  * 

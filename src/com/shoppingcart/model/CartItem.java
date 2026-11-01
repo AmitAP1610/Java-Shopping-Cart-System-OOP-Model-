@@ -1,3 +1,5 @@
+package com.shoppingcart.model;
+
 /**
  * Represents an item line inside a shopping cart.
  * Links a Product to the quantity selected by the customer.

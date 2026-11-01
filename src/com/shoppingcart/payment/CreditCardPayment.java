@@ -1,3 +1,5 @@
+package com.shoppingcart.payment;
+
 /**
  * Implements Credit Card payment processing.
  * 
